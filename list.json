@@ -95,7 +95,7 @@
     "id": 13,
     "remark": "https://node.freeclashnode.com",
     "site": "https://node.freeclashnode.com",
-    "url": "https://node.freeclashnode.com/uploads/2026/04/0-20260424.txt",
+    "url": "https://node.freeclashnode.com/uploads/2026/04/0-20260425.txt",
     "update": "(\\d{4})/(\\d{2})/0-(\\d{8})",
     "enabled": true
   },
@@ -103,7 +103,7 @@
     "id": 14,
     "remark": "https://node.freeclashnode.com",
     "site": "https://node.freeclashnode.com",
-    "url": "https://node.freeclashnode.com/uploads/2026/04/1-20260424.txt",
+    "url": "https://node.freeclashnode.com/uploads/2026/04/1-20260425.txt",
     "update": "(\\d{4})/(\\d{2})/1-(\\d{8})",
     "enabled": true
   },
